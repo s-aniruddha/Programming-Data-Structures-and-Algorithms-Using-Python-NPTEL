@@ -2,7 +2,7 @@
 
 I completed the NPTEL course ["Programming, Data Structures and Algorithms Using Python" by Professor Madhavan Mukund](https://nptel.ac.in/courses/106/106/106106145/)
 
-This project contains the Jupyter notebooks I created during that course. This may be useful for Python beginners. 
+This project contains the Jupyter notebooks I created during that course. These may be useful for Python beginners. 
 
 * [1_basic_data_types.ipynb](1_basic_data_types.ipynb)
 * [2_operators.ipynb](2_operators.ipynb)
